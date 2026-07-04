@@ -11,7 +11,7 @@ public class Error {
         catch(Exception e){
 
         }
-       System.out.println("Program ended");h
+       System.out.println("Program ended");
 
     }
 }
