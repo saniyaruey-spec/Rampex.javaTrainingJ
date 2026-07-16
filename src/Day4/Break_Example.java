@@ -1,0 +1,10 @@
+package Day4;
+
+public class Break_Example {
+    public static void main(String[] args) {
+        for(int i = 0; i <= 5 && i <= 2; ++i) {
+            System.out.println(i);
+        }
+
+    }
+}
